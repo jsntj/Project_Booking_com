@@ -1,0 +1,21 @@
+---Suggested Projects---
+
+looking in fully detailed work of the datasets we can conclude certain things: 
+	1. Review nationality : although Europe made of the highest asia considers the second with the lowest average score 
+	2. Countries of the hotel : in average the average_score is highest in paris among all the 6 countries. therefore a higher analysis should be prioritize on paris to find which properties of the hotels there distinguish comparing to the lowest. 
+	3. The Tags are also easy to categorized with either reviewers be leisure/business travelers , solo/group travellers , if group are they with children of older/younger of age or grouping with another grownup. 
+	Classifying them would be most suitable for recommendation-engine
+	4. The countries of the hotel : there are only 6 countries within the datasets 
+
+
+Suggested how we the project would be  : 
+First we looked into the datasets and proritize that : comments play important role . 
+
+hence: 
+	1. For the users: a recommendation engine for the users, where users able to input their nationality, cities that they intend to stay , the tags [business/leisure , solo/group] which then outpuut key-words like tag with postive/negative sentiment based on given hotels.
+
+	
+	2Customer Profiling 
+Customer profiling is accomplished through in-depth analysis of guest demographics and lifestyle characteristics. Attributes such as income levels, family status, age and sports and cultural interests, if known, can be appended to model guests. Customer profiling can be used to create an e-mail listserv for targeted marketing of current as well as prospective clients. Prospect profiles can be especially useful in identifying those folks most likely to respond to marketing and/or promotional offers. Profiling can also be important in determining which market segments are most productive and profitable.
+
+	3. 

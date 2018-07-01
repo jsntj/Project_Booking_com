@@ -1,0 +1,13 @@
+---Überblick---
+
+* There are now ways to give a basic assumption to the 500k worth of data . 
+
+* what do we gained from transforming the data ? 
+looking at the datasets and the origin of the data-resource , it comes orginally from booking.com and website for users to book hotel and review them(obviously). based on site the best selection of hotels can be indicative by their average score. This is where we will start analysing the data  to find which variables could help provides information to help improve average scores of the hotels. 
+
+* We use R to give a pure rough analysis of the whole datasets. [see summary.txt]
+	- looking at the number of mentioned hotel address can we see that there are diiferent number of reviewers for each hotel, so ths comes into discussion whether number of reviews itself indication of quality of hotels
+
+	-The other fascinating look at the data-summary is the nationality of the reviewers, UK is obviously the highest numbers of customers revieweing using booking.com  but the 'other' has the second highest number hence unclassified and probably requires an analysis.++
+	 - The positive comment and negative comment are also analyse using summary function which calcluates most frequented word used by the users. The word 'no postive' is probably a simple default for in case reviewers didn't fil the comment section. Hence in order to go further and pre-processing is requires
+	-

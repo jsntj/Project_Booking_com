@@ -1,0 +1,28 @@
+--- looking at the project  ---
+
+Hotel industry is another industry where effective use of analytics can change dramatically how business is run. It is another data rich industry that captures huge volumes of data of different types, including video, audio, and Web data. However, for most hoteliers data remains an underused and under-appreciated asset. Hoteliers capture loyalty information, for example, but few go beyond loyalty tier in how they consistently view and take action with their guests. With analytical exploitation of their data, hoteliers can go beyond their traditional loyalty programs and deepen their knowledge of guests in order to develop a more granular understanding of segment behavior, needs, and expectations; identify profitable customer segments and their buying preferences; and identify opportunities to attract new guests. But all that starts with having clear customer-driven vision, before embarking on Integrating and standardizing guest data from multiple channels, systems and properties into a unified, accurate view of all interac­tions.
+
+Next phase is using analytics to segment guests according to booking trends, behavior and other factors in order to reveal their likelihood to respond to promotions and emerging travel trends. It is vitally important for hoteliers to be able to understand guest preferences (locations, activities, and room types), purchase behavior (frequency, length of stay, time of year) and profit potential in order to increase the brand loyalty and wallet share of their most valuable guests. Focusing on the wrong guests reduces profitability across the enterprise. For example, if a hotel targeted guests who would likely take advantage of spa services, golf and restaurants, rather than guests who only generate room nights, they could significantly increase revenues and profitability.
+
+To maximize profits, hotels need to increase the loyalty and wallet share of their most valuable guests by marketing to their preferences and encouraging repeat visits. Focusing on the wrong guests reduces profitability across the enterprise. For example, if a hotel targeted guests who would likely take advantage of spa services, golf and restaurants, rather than guests who only generate room nights, they could significantly increase revenues and profitability. Unfortunately, money often gets spent on blanket campaigns that don’t target individual guests or segments with offers they’re most likely to respond to. As a result, guests may feel that the hotel doesn’t care about them, or simply doesn’t offer services designed to meet their needs. It becomes easy for those guests to switch to a competing hotel.
+
+
+Unfortunately, money often gets spent on blanket campaigns that don’t target individual guests or segments with offers they’re most likely to respond to. As a result, guests may feel that the hotel doesn’t care about them, or simply doesn’t offer services designed to meet their needs. It becomes easy for those guests to switch to a competing hotel. For analytics to truly be a game changer, hospitality organizations need to recognize the difference between reactive and proactive decision making. Using your data to create reports, drill-downs or alerts helps you to keep a finger on the pulse of your business. But these things only show you what happened. They will not tell you why the problem is happening or what effect it will have in the future.
+
+Predictive analytics, like forecasting and optimization, can help you figure out why things are happening, show you what will happen next, or even lead you to the best alternative action considering all of your operating constraints. Hoteliers are starting to use more and more predictive analytics to move from reactive to proactive decision making, which would enable them to stay one step ahead of trends, set strategy and achieve goals. They gain advantage over the competition, increase value to shareholders, and continue to surprise and delight their guests. Following are areas where analytics can play essential role:
+
+with over 500k worth of individuals giving scores on the hotels they are staying, we'll have to take a lot of consideration in regards of selecting which variables that we intend to focus. 
+
+There overall 17 variables with different form of type . [which I will briefly explain bay listing it]
+
+We'll be looking briefly on each of them and trying to find any sort of correlation or interesting facts before going further on focused variable.
+---
+based on [literature] we intend to commit our project-report using structure given by the dozent in which 9 steps  are used to  describe the journey of our data sets into knowledge that would be beneficial in term of econommy. [look at picture.png]
+
+---what's the goal---
+
+clearly as it comes as obvious as to what the goal of the project is; provides overall information/pattern that would helps competitive advantages , but it is rather shallow to consider it as such. Hence we look at the company website and the datasets itself on what , who , how would it benefecial for . 
+
+The datasets correspond with the website. There are comments and hotel adress and such. 
+
+

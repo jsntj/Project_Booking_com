@@ -1,0 +1,62 @@
+   ---Hotel_Address                                                                      Additional_Number_of_Scoring
+ 163 Marsh Wall Docklands Tower Hamlets London E14 9SJ United Kingdom          :  4789   Min.   :   1.0              
+ 372 Strand Westminster Borough London WC2R 0JJ United Kingdom                 :  4256   1st Qu.: 169.0              
+ Westminster Bridge Road Lambeth London SE1 7UT United Kingdom                 :  4169   Median : 341.0              
+ Scarsdale Place Kensington Kensington and Chelsea London W8 5SY United Kingdom:  3578   Mean   : 498.1              
+ 7 Pepys Street City of London London EC3N 4AF United Kingdom                  :  3212   3rd Qu.: 660.0              
+ 1 Inverness Terrace Westminster Borough London W2 3JP United Kingdom          :  2958   Max.   :2682.0              
+ (Other)                                                                       :492776
+                               
+    Review_Date     Average_Score                                               Hotel_Name    
+ 8/2/2017 :  2585   Min.   :5.200   Britannia International Hotel Canary Wharf       :  4789  
+ 9/15/2016:  2308   1st Qu.:8.100   Strand Palace Hotel                              :  4256  
+ 4/5/2017 :  2284   Median :8.400   Park Plaza Westminster Bridge London             :  4169  
+ 8/30/2016:  1963   Mean   :8.397   Copthorne Tara Hotel London Kensington           :  3578  
+ 2/16/2016:  1940   3rd Qu.:8.800   DoubleTree by Hilton Hotel London Tower of London:  3212  
+ 7/5/2016 :  1904   Max.   :9.800   Grand Royale London Hyde Park                    :  2958  
+ (Other)  :502754                   (Other)                                          :492776  
+
+
+          Reviewer_Nationality         Negative_Review      Review_Total_Negative_Word_Counts     Total_Number_of_Reviews
+  United Kingdom           :245246     No Negative:127890   Min.   :  0.00                        Min.   :   43          
+  United States of America : 35437     Nothing   : 14295    1st Qu.:  2.00                        1st Qu.: 1161          
+  Australia                : 21686     Nothing   :  4236    Median :  9.00                        Median : 2134          
+  Ireland                  : 14827     nothing   :  2225    Mean   : 18.54                        Mean   : 2744          
+  United Arab Emirates     : 10235     N A       :  1037    3rd Qu.: 23.00                        3rd Qu.: 3613          
+  Saudi Arabia             :  8951     None      :   984    Max.   :408.00                        Max.   :16670          
+ (Other)                   :179356    (Other)    :365071                                        
+
+                    
+  Positive_Review       Review_Total_Positive_Word_Counts   Total_Number_of_Reviews_Reviewer_Has_Given      Reviewer_Score  
+  No Positive  : 35946  Min.   :  0.00                      Min.   :  1.000                                 Min.   : 2.500  
+  Location    :  9222   1st Qu.:  5.00                      1st Qu.:  1.000                                 1st Qu.: 7.500  
+  Everything  :  2284   Median : 11.00                      Median :  3.000                                 Median : 8.800  
+  location    :  1677   Mean   : 17.78                      Mean   :  7.166                                 Mean   : 8.395  
+  Nothing     :  1243   3rd Qu.: 22.00                      3rd Qu.:  8.000                                 3rd Qu.: 9.600  
+  The location:  1126   Max.   :395.00                      Max.   :355.000                                 Max.   :10.000  
+ (Other)      :464240                                                                                                
+ 
+                                                                                                                Tags       
+ [' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']          :  5101  
+
+ [' Leisure trip ', ' Couple ', ' Standard Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device '] :  4931  
+
+ [' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device '] :  4366 
+ 
+ [' Leisure trip ', ' Couple ', ' Deluxe Double Room ', ' Stayed 1 night ', ' Submitted from a mobile device ']   :  3991  
+
+ [' Leisure trip ', ' Couple ', ' Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']         :  3291  
+
+ [' Leisure trip ', ' Couple ', ' Superior Double Room ', ' Stayed 2 nights ', ' Submitted from a mobile device ']:  3102  
+ 
+(Other)  :490956  
+          
+
+ days_since_review      lat             lng        
+ 1 days :  2585    Min.   :41.33   Min.   :-0.370  
+ 322 day:  2308    1st Qu.:48.22   1st Qu.:-0.143  
+ 120 day:  2284    Median :51.50   Median : 0.011  
+ 338 day:  1963    Mean   :49.44   Mean   : 2.824  
+ 534 day:  1940    3rd Qu.:51.52   3rd Qu.: 4.834  
+ 394 day:  1904    Max.   :52.40   Max.   :16.429  
+ (Other):502754    NA's   :3268    NA's   :3268    
